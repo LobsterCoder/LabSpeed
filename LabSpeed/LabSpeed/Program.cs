@@ -10,7 +10,9 @@ namespace LabSpeed
     {
         static void Main(string[] args)
         {
-            ListDictPerf.Run();
+            //ListDictPerf.Run();
+            //GenericList.Run();
+            ListDictArray.Run();
         }
     }
 }
